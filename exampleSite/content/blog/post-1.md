@@ -1,172 +1,31 @@
 ---
-title: "Adversus is a web-based dialer and practical CRM solution"
-date: 2020-04-18T10:07:21+06:00
-# post image
-image: "images/blog/post-1.jpg"
-# post type (regular/featured)
-type: "featured"
-# meta description
-description: "This is meta description"
-# post draft
-draft: false
+title: Adversus is a web-based dialer and practical CRM solution
+date: 2020-04-18T10:07:21.000+06:00
+image: images/blog/post-1.jpg
+type: featured
+description: This is meta description
+
 ---
+# SF 722 - Undecylenic Acid - self review
 
+Thorne Research is a very good and legit brand for several years and SF 722 is one of the strongest natural antibacterial supplement on the market nowadays. But going back to the starting point: Few years ago my wife and me were suffering very strong SIBO symptoms such as constipation, bloating, sometimes diarrhea. We tried couple of diets, we avoided lots of "bad" food like sugar, wheat, overall carbs, but didn't help anything... I can say, the situation was worse during the diet and we lost tens of pounds however we did it strictly. One day I found this company and finally ordered the SF722 supplements like a lottery ticket. We gave up the the strict diet just kept in low card mode and take this product.
 
-#### Heading example
+## What is SF 722?
 
-Here is example of hedings. You can use this heading by following markdownify rules. For example: use `#` for heading 1 and use `######` for heading 6.
+SF722 is **Undecylenic Acid**: "Formula SF722 contains undecylenic acid, the most potent of the fatty acids that studies have shown can be effective in maintaining a healthy balance of gastrointestinal and vaginal flora.*" On my own words, I would say one of the best antimicrobial fatty acids on the market. It seems, I'm doing a very good marketing for this product, but not even close, just I want to mention all the details, why I chose this product.
 
-# Heading 1 
-<br>
+## **Usage**
 
-## Heading 2 
+We started simultaneously with my wife and took 3 capsule a day. In the beginning we didn't feel any benefit, nothing changed, but if our symptoms didn't get worse, we didn't stop taking it. Why not? 
 
-<br>
+## Benefit, side effects and results
 
-### Heading 3 
+After one week, we felt some relief, strangely after meals we didn't feel strong bloating symptoms just a lightly one.. It was something finally! I was the one who had diarrhea every morning and my biggest sign was it just stopped. Less bloating, no diarrhea after several years of suffering!
 
-<br>
+I was in a worse condition and after two weeks, all the symptoms came back so I increased the dosage to 3 capsule, 3 times a day. It helped a lot!
 
-#### Heading 4 
+Long story short, my wife was healed almost fully, sometimes she is bloated and constipated, but I can say she is okay. No problem with carbs, no sugar problem. Me.. Well I'm okay, I had to stop to avoid any "get used to it" thing, because my condition was worse than hers, so every few month I take it for few weeks and I can maintain my condition.
 
-<br>
+I can say it can be a life safer if we take it properly and we are listening to our body signs. In serious condition, I would take more than 1 capsule 3 times a day. I'm pretty sure, everybody already spent couple of hundreds, or even thousands on supplements to find some relief, so... go for it! It can help!
 
-##### Heading 5 
-
-<br>
-
-###### Heading 6
-
-
-<hr>
-
-##### Emphasis
-
-Emphasis, aka italics, with *asterisks* or _underscores_.
-
-Strong emphasis, aka bold, with **asterisks** or __underscores__.
-
-Combined emphasis with **asterisks and _underscores_**.
-
-Strikethrough uses two tildes. ~~Scratch this.~~
-
-<hr>
-
-##### Link
-[I'm an inline-style link](https://www.google.com)
-
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
-
-[I'm a reference-style link][Arbitrary case-insensitive reference text]
-
-[I'm a relative reference to a repository file](../blob/master/LICENSE)
-
-[You can use numbers for reference-style link definitions][1]
-
-Or leave it empty and use the [link text itself].
-
-URLs and URLs in angle brackets will automatically get turned into links. 
-http://www.example.com or <http://www.example.com> and sometimes 
-example.com (but not on Github, for example).
-
-Some text to show that the reference links can follow later.
-
-[arbitrary case-insensitive reference text]: https://www.themefisher.com
-[1]: https://gethugothemes.com
-[link text itself]: https://www.getjekyllthemes.com
-
-<hr>
-
-##### Paragraph
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime corporis cumque totam aliquid nam sint inventore optio modi neque laborum officiis necessitatibus, facilis placeat pariatur! Voluptatem, sed harum pariatur adipisci voluptates voluptatum cumque, porro sint minima similique magni perferendis fuga! Optio vel ipsum excepturi tempore reiciendis id quidem? Vel in, doloribus debitis nesciunt fugit sequi magnam accusantium modi neque quis, vitae velit, pariatur harum autem a! Velit impedit atque maiores animi possimus asperiores natus repellendus excepturi sint architecto eligendi non, omnis nihil. Facilis, doloremque illum. Fugit optio laborum minus debitis natus illo perspiciatis corporis voluptatum rerum laboriosam.
-
-<hr>
-
-##### Ordered List
-
-1. List item
-2. List item
-3. List item
-4. List item
-5. List item
-
-<hr>
-
-##### Unordered List
-
-* List item
-* List item
-* List item
-* List item
-* List item
-
-<hr>
-
-##### Code and Syntax Highlighting
-
-Inline `code` has `back-ticks around` it.
-
-```javascript
-var s = "JavaScript syntax highlighting";
-alert(s);
-```
- 
-```python
-s = "Python syntax highlighting"
-print s
-```
-
-<hr>
-
-##### Blockquote
-
-> This is a blockquote example.
-
-<hr>
-
-##### Inline HTML
-
-You can also use raw HTML in your Markdown, and it'll mostly work pretty well.
-
-<dl>
-  <dt>Definition list</dt>
-  <dd>Is something people use sometimes.</dd>
-
-  <dt>Markdown in HTML</dt>
-  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
-</dl>
-
-
-<hr>
-
-##### Tables
-
-Colons can be used to align columns.
-
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-
-There must be at least 3 dashes separating each header cell.
-The outer pipes (|) are optional, and you don't need to make the 
-raw Markdown line up prettily. You can also use inline Markdown.
-
-Markdown | Less | Pretty
---- | --- | ---
-*Still* | `renders` | **nicely**
-1 | 2 | 3
-
-<hr>
-
-##### Image
-
-![image](../../images/blog/post-6.jpg)
-
-<hr>
-
-##### Youtube video
-
-{{< youtube C0DPdy98e4c >}}
+Usually we order it from here: <link>
