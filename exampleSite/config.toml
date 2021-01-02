@@ -1,4 +1,4 @@
-baseURL = "https://antisibo.netlify.com/"
+baseURL = "http://antisibo.netlify.com/"
 disqusShortname = ""
 googleAnalytics = ""
 languageCode = "en-us"
