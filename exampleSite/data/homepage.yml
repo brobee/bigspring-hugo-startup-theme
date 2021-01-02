@@ -19,9 +19,9 @@ feature:
   - name: Dr. Tobias Probiotic
     icon: ti-package
     content: Solution for bowel movement improvement
-  - name: 24h Service
+  - name: Dr. Tobias Digestive enzime
     icon: ti-alarm-clock
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
+    content: Easier digestion, less bloating
   - name: Value For Money
     icon: ti-credit-card
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
