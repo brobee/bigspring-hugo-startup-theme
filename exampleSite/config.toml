@@ -6,7 +6,7 @@ languageName = "En"
 paginate = "3"
 summaryLength = "70"
 theme = "bigspring"
-title = "Bigspring Hugo"
+title = "Antisibo - Tested and Effective Supplements for Sibo and Candida treatment"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.footer_left]]
@@ -61,8 +61,8 @@ logo = "images/logo.png"
 logo_width = "200px"
 [params.navigation_button]
 enable = true
-label = "Get Started"
-link = "contact"
+label = "FOrum"
+link = "#"
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]
