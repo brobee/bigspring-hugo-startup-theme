@@ -4,7 +4,7 @@ googleAnalytics = ""
 languageCode = "en-us"
 languageName = "En"
 paginate = "3"
-summaryLength = "15"
+summaryLength = "50"
 theme = "bigspring"
 title = "Bigspring Hugo"
 [markup.goldmark.renderer]
