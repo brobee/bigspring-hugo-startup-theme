@@ -2,6 +2,9 @@
 title: My Story
 subtitle: Subtitle goes here
 description: Some metadescription
+menu:
+  main:
+    weight: 5
 
 ---
 
